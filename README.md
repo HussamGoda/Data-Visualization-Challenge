@@ -1,5 +1,5 @@
 # Data-Visualization-Challenge
 
-The solution for this challenge is in Starter_Code\Pymaceuticals.
-Please use "Data_Visualization_Challenge_final.ipynb" to check the results of the Challenge.
-Some Executive Summary points are included on top of the code.
+The solution for this challenge is located inside Starter_Code\Pymaceuticals.
+Please use "Data_Visualization_Challenge_final.ipynb" to check the code and results of the Challenge.
+Some Executive Summary points are included on top in the same file before the code itself starts.
